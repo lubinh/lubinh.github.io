@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang=“en” dir=“ltr”>
+  <head>
+
+<meta charset=“utf-8”>
+
+<title></title>
+
+</head>
+
+<body>
+
+<h1>Welcome to my world !</h1>
+<blockquote> Feel free to browse around and sign up if you like.</blockquote>
+<hr>
+<nav>
+  <li><a href="#">
+    Here is a link to google</a></li><br>
+</nav>
+<div>
+<img src="music instruments.jpeg">
+<i> Email me by clicking on</i>
+<br><a href="#">Harrison L</a></br>
+Visit us at:<br><a href="#"> Harris Teaches Music</br></a>PO Box 123, New York<br>
+USA</br>
+</div>
+
+</body>
+
+</html>
